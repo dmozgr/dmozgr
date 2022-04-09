@@ -1,7 +1,7 @@
 ### <div align="center">I'm Umut Özgür, a Electronics Engineering and Computer Engineering Student 👨‍💻 working part-time Software Developer since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on Qt with C++  
+- 🔭 I’m currently working on Qt with C++ and IQANDesign Tool  
   
 
 - 🌱 I’m currently learning Software Design and Architecture  
